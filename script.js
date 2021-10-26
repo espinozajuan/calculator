@@ -1,1 +1,1 @@
-console.log('testing');
+const calculatorDisplay = document.querySelector('h1');
